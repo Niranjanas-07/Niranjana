@@ -1,6 +1,6 @@
 # Hi there, I'm Niranjana S! 👋
 
-Welcome to my GitHub profile! I'm a passionate **Computer Science Student** at **APJ Abdul Kalam Technological University**. I love exploring the world of programming, building projects, and learning new technologies to create impactful solutions.
+Welcome to my GitHub profile! I'm a MCA Graduate from **APJ Abdul Kalam Technological University**. I love exploring the world of programming, building projects, and learning new technologies to create impactful solutions.
 
 ---
 
